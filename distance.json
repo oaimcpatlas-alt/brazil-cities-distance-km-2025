@@ -1,0 +1,10 @@
+{
+  "country": "Brazil",
+  "year": 2025,
+  "cities": [
+    "São Paulo",
+    "Rio de Janeiro"
+  ],
+  "distance_km": 435,
+  "source": "Google Maps driving directions"
+}
